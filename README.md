@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IgnacioMC20
 - 👀 I’m interested in Laravel projects
-- 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on Laravel projects
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on Laravel or JavaScript projects
 - 📫 jm10cuyun@gmail.com
 
 <!---
