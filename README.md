@@ -1,9 +1,9 @@
+# 🧑🏻‍💻 About me:
 - 👋 Hi, I’m @IgnacioMC20
 - 👀 I’m interested in JavaScript projects
 - 🌱 I’m currently learning Next.js
 - 💞️ https://www.linkedin.com/in/ignaciomc20/
 - 📫 jm10cuyun@gmail.com
--<br>⚡ Fun fact, I like videogames
 
 
 # 💻 Tech Stack:
