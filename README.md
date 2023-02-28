@@ -1,7 +1,7 @@
 # 🧑🏻‍💻 About me:
 - 👋 Hi, I’m @IgnacioMC20
 - 👀 I’m interested in JavaScript projects
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning GCP
 - 💞️ https://www.linkedin.com/in/ignaciomc20/
 - 📫 jm10cuyun@gmail.com
 
